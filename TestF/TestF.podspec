@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'PodTest1/TestF/Classes/**/*'
+  s.source_files = '/TestF/Classes/**/*'
   
   # s.resource_bundles = {
   #   'TestF' => ['TestF/Assets/*.png']

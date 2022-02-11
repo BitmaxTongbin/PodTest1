@@ -109,8 +109,7 @@
 		0A4289D6394FE8AF6F4C9E73A648B157 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				A64F125827B666FC00B3A8E7 /* Test111Obj.h */,
-				A64F125927B666FC00B3A8E7 /* Test111Obj.m */,
+				A64F126027B66CC300B3A8E7 /* 1 */,
 				9FAA8DAEEDC1446A02D6AAF9579589BF /* LICENSE */,
 				B9793DFC40FA55DF4C357C994E6E2C76 /* README.md */,
 				E6B398869B64EC79442640D7FCD17238 /* TestF.podspec */,
@@ -166,6 +165,15 @@
 				45A4E99A79000B2414AC8363FE2F700C /* TestF */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A64F126027B66CC300B3A8E7 /* 1 */ = {
+			isa = PBXGroup;
+			children = (
+				A64F125827B666FC00B3A8E7 /* Test111Obj.h */,
+				A64F125927B666FC00B3A8E7 /* Test111Obj.m */,
+			);
+			name = 1;
 			sourceTree = "<group>";
 		};
 		A9CA22EEB654A71EC96F0F269D64A68F /* Targets Support Files */ = {
